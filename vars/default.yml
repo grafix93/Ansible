@@ -1,0 +1,13 @@
+mysql_root_password: "toor"
+wp_mysql_db: "wordpress"
+DB_NAME: "wordpress"
+DB_USER: "sabri"
+DB_PASSWORD: "toor"
+app_user: "root"
+http_host: "cloud.sri"
+http_conf: "cloud.sri.conf"
+http_port: "80"
+disable_default: true
+wp_mysql_db: wordpress
+wp_mysql_user: wordpress
+wp_mysql_password: toortoor
